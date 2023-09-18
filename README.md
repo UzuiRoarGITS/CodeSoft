@@ -1,4 +1,4 @@
-# CodeSoft
+# CodSoft
 This is my work under codesoft. You can check my projects and get new ideas through this.
 Web development is a broad field that involves creating and maintaining websites and web applications. It encompasses various technologies, languages, and frameworks to build web-based solutions. Here's some information about web development and the types of projects commonly undertaken in this field:
 
